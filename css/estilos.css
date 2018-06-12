@@ -1,0 +1,38 @@
+.navbar{
+	padding: 0px 20px 0px 60px;
+}
+.logo{
+	width: 45%;
+	border-radius: 50%;
+	border: 1px solid #020B92;
+}
+.collapse{
+	position: relative;
+	left: -5rem;
+    margin: 2rem;
+    font-size: 1.4rem;
+}
+.navbar-nav > .nav-item{
+	margin:1rem;
+}
+
+
+
+.jumbotron{
+	background-image: url(../images/niñasonriendo.jpg);
+	height: 25rem;
+	background-repeat: no-repeat;
+	background-size: auto;
+}
+.carousel, .carousel-inner > .carousel-item >img{
+  height:27rem;
+  width: 100%;
+}
+
+.carousel-caption{
+	background: rgba(0,0,0, 0.4);
+	color: rgba(255,255,255, 1);
+}
+.btn{
+	float:right;
+}
